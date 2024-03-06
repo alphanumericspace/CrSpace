@@ -1,0 +1,22 @@
+# Ignore compiled executables
+/bin/
+/.crystal/
+
+# Ignore build artifacts
+/lib/
+
+# Ignore shards (dependencies)
+/shards/
+
+# Ignore any generated documentation
+/doc/
+
+# Ignore any editor-specific files
+.vscode/
+.idea/
+
+# Ignore any environment-specific files
+.env
+
+# Ignore any sensitive information
+config.cr
